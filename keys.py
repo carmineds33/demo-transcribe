@@ -1,0 +1,5 @@
+AWS_ACCESS_KEY_ID = ''
+AWS_SECRET_ACCESS_KEY = ''
+REGION = 'us-east-1'
+BUCKET_NAME = 'ai-knowledge-repo'
+INPUT_PATH = 'audio'
